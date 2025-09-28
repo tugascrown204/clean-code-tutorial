@@ -15,7 +15,7 @@ We welcome contributions to the Clean Code Tutorial! Here are some guidelines to
 - Follow the coding style of the existing codebase as closely as possible.
 - Write clear, concise, and well-documented code.
 
-## Issues
+## Reporting Issues
 If you find a bug or have a feature request, please create an issue in the repository with a clear description.
 
 ## Acknowledgments
