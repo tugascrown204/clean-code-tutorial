@@ -8,7 +8,7 @@ We welcome contributions to the Clean Code Tutorial! Here are some guidelines to
 3. **Set up the development environment**: Follow the instructions in the README to set up the necessary tools and dependencies.
 4. **Make your changes**: Edit the files and add the enhancements or fixes you want to contribute.
 5. **Test your changes**: Ensure your changes work as expected and do not break existing functionality.
-6. **Create a pull request**: Submit your changes back to the original repository for review. **Include a description of your changes and any relevant context for the reviewers.**
+6. **Create a pull request**: Submit your changes back to the original repository for review. **Include a detailed description of your changes, the motivation behind them, and any relevant context for the reviewers.**
 7. **Participate in code reviews**: Be open to feedback and ready to make additional changes based on reviewers' comments.
 
 ## Code Style
