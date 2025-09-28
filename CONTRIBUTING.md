@@ -7,7 +7,8 @@ We welcome contributions to the Clean Code Tutorial! Here are some guidelines to
 2. **Create a branch**: Use a descriptive name for your branch, such as `feature/add-example` or `fix/typo`.
 3. **Make your changes**: Edit the files and add the enhancements or fixes you want to contribute.
 4. **Test your changes**: Ensure your changes work as expected and do not break existing functionality.
-5. **Create a pull request**: Submit your changes back to the original repository for review.
+5. **Create a pull request**: Submit your changes back to the original repository for review. **Include a description of your changes and any relevant context.**
+6. **Participate in code reviews**: Be open to feedback and ready to make additional changes based on reviewers' comments.
 
 ## Code Style
 - Follow the coding style of the existing codebase as closely as possible.
